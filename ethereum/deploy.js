@@ -5,7 +5,7 @@ const compiledFactory=require('./build/CampaignFactory.json')
 const provider = new HDWalletProvider(
   'industry chuckle chest move educate cycle public sauce plunge crew kit advance',
   // remember to change this to your own phrase!
-  'https://rinkeby.infura.io/v3/aeb60b81b29b44a0b384c44d0420415c'
+  'https://rinkeby.infura.io/v3/b19232fa6bd944bf8e96325baa2088a3'
   // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
